@@ -22,5 +22,5 @@ EEG based Person Identification and Authentication
   <li>Random Forest - RF</li>
   <li>K-Nearest Neighbour - KNN</li>
   <li>Ensemble Learning</li>
-  
 </ul>
+
