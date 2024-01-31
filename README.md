@@ -1,5 +1,5 @@
 # EEG-based-Person-Identification-and-Authentication
-EEG based Person Identification and Authentication
+<img src="https://i.imgur.com/ZrmxJRu.jpg">
 <h1>Abstract</h1>
 <p>This research proposes a unique approach to biometric security by exploring the potential of using EEG signals for person authentication or identification. EEG signals obtained non-invasively from the scalp offer valuable insights into a human's brain functioning, making them a promising modality for identification. The project comprises three main stages: data acquisition, feature extraction, and classification. EEG information may be accrued from individuals even as they perform obligations or reply to stimuli. Sign processing techniques and time-domain, frequency-domain, and time-frequency analysis may be hired to extract relevant functions that seize the precise patterns of everyone's brain pastime. Machine learning algorithms such as support vector machines, random forests, and deep learning models will be trained to classify and differentiate between individuals based on their distinct EEG patterns.</p>
 <h1>Introduction</h1>
