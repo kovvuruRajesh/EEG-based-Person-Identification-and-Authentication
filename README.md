@@ -24,8 +24,8 @@ EEG based Person Identification and Authentication
   <li>Ensemble Learning</li>
 </ul>
 <img src="Pictures/SVM.png" />
-<img src="Pictures/.png" />
-<img src="Pictures/SVM.png" />
-<img src="Pictures/SVM.png" />
-<img src="Pictures/SVM.png" />
-<img src="Pictures/SVM.png" />
+<img src="Pictures/Decision Tree.png" />
+<img src="Pictures/Random Forest.png" />
+<img src="Pictures/KNN.png" />
+<img src="Pictures/Ensemble Learning.png" />
+<img src="Pictures/Result.png" />
