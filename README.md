@@ -23,3 +23,4 @@ EEG based Person Identification and Authentication
   <li>K-Nearest Neighbour - KNN</li>
   <li>Ensemble Learning</li>
 </ul>
+<img src="Pictures/SVM.jpg" />
