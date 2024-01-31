@@ -16,3 +16,11 @@ EEG based Person Identification and Authentication
 </ul>
 <a href="https://physionet.org/content/eegmmidb/1.0.0/">Dataset</a>
 <h2>Machine Learning Algorithms</h2>
+<ul>
+  <li>Support Vector Machine - SVM</li>
+  <li>Decision Tree - DT</li>
+  <li>Random Forest - RF</li>
+  <li>K-Nearest Neighbour - KNN</li>
+  <li>Ensemble Learning</li>
+  
+</ul>
